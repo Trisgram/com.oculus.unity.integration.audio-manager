@@ -1,10 +1,12 @@
 {
-    "name": "Oculus.Integration.AudioManager",
+    "name": "Oculus.AudioManager.Audio.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:319cee27550554e478891ab7a3aee014"
+        "Oculus.AudioManager"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
