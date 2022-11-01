@@ -1,6 +1,6 @@
 {
 	"name": "com.oculus.unity.integration.audio-manager",
-	"displayName": "Oculus Integration Audio Manger",
+	"displayName": "Oculus Integration Audio Manager",
 	"description": "Unofficial Oculus Unity-Integration Audio Manager as a package for Unity",
 	"keywords": [],
 	"version": "32.0.0",
